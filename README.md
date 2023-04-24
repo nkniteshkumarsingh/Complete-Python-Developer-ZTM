@@ -1,5 +1,7 @@
 # Complete-Python-Developer-ZTM
-Includes coding exercises of "Complete Python Developer - Zero to Mastery" course.
+
+Includes coding exercises and notes of "Complete Python Developer - Zero to Mastery" course.
 - 
-- Adding Python Introduction
+- Python Introduction
+- Python Basics
 - 
