@@ -4,4 +4,5 @@ Includes coding exercises and notes of "Complete Python Developer - Zero to Mast
 - 
 - Python Introduction
 - Python Basics
+- Python Basics II
 - 
