@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81e55640-0586-44ab-a10d-b7936a1ceba2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/3. Python Basics II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConditionalLogic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakContinuePass.py" beforeDir="false" afterPath="$PROJECT_DIR$/BreakContinuePass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConditionalLogic.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConditionalLogic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IsVs==.py" beforeDir="false" afterPath="$PROJECT_DIR$/IsVs==.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OurFirstGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/OurFirstGUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Range().py" beforeDir="false" afterPath="$PROJECT_DIR$/Range().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Complete Python Developer Zero to Mastery.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Complete Python Developer Zero to Mastery.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

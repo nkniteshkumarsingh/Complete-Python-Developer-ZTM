@@ -2,20 +2,20 @@
 
 for item in 'Zero to Mastery':
     print(item, end=' ')
-print('\n')
+print()
 
 for item in [1, 2, 3, 4, 5]:
     print(item, end=' ')
-print('\n')
+print()
 
 for item in {1, 2, 3, 4, 5}:
     print(item, end=' ')
-print('\n')
+print()
 
 for item in (1, 2, 3, 4, 5):
     print(item, end=' ')
 print(item)
-print('\n')
+print()
 
 # Nested Loops
 for item in (1, 2, 3, 4, 5):

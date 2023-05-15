@@ -6,14 +6,14 @@ while i < len(my_list):
     print(my_list[i])
     i += 1
     continue
-print('\n')
+print()
 
 i = 0
 while i < len(my_list):
     print(my_list[i])
     i += 1
-    pass
-print('\n')
+    break
+print()
 
 i = 0
 while i < len(my_list):

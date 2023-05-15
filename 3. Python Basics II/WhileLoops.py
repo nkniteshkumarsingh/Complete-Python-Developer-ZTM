@@ -6,14 +6,14 @@ while i < 50:
     i += 1
 else:
     print('\nDone with all the work.')
-print('\n')
+print()
 
 my_list = [1, 2, 3]
 i = 0
 while i < len(my_list):
     print(my_list[i])
     i += 1
-print('\n')
+print()
 
 while True:
     response = input('Say Something: ')

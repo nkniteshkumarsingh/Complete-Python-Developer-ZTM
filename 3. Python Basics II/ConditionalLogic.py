@@ -11,7 +11,7 @@ else:
     print('You are not of age!')
 
 print('ok ok')
-print('\n')
+print()
 
 # improved version
 if is_old and is_licenced:

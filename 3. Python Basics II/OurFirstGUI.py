@@ -14,8 +14,8 @@ picture = [
 
 for array in picture:
     for item in array:
-        if item == 0:
-            print(' ', end='')
-        else:
+        if item:
             print('*', end='')
-    print('\n')
+        else:
+            print(' ', end='')
+    print()
