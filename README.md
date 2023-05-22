@@ -7,4 +7,5 @@ Includes coding exercises and notes of "Complete Python Developer - Zero to Mast
 - Python Basics II
 - Developer Environment
 - Advanced Python Object Oriented Programming
+- Advanced Python Functional Programming
 - 
