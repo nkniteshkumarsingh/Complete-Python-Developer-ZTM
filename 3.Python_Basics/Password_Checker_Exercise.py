@@ -1,5 +1,5 @@
 # Python Data Types
-# Password Checker
+# Password Checker Exercise
 # Input username and password and print “Password is --- length long”.
 
 username = input("Enter your username:\t")

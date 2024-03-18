@@ -1,5 +1,5 @@
-# Python Data Types
-# Exercise Type Conversion
+# Python Data Types.
+# Type Conversion Exercise
 # Write a program to take input the birth year and print the age of the user.
 
 birth_year = input("What year were you born?\n")

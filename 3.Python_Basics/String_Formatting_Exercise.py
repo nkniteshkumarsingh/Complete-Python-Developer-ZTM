@@ -1,5 +1,5 @@
 # Python Data Types
-# Exercise String Formatting
+# String Formatting Exercise
 
 # 1 What would be the output of the below 4 print statements?
 # Try to answer these before you click RUN!

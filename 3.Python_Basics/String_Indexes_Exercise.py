@@ -1,4 +1,5 @@
 # Python Data Types
+# String Indexes Exercise
 # Guess the output of each print statement before you click RUN!
 python = 'I am PYTHON'
 
