@@ -7,5 +7,8 @@ Includes all the coding exercises performed during the course Complete Python De
 - 5. Developer Environment
 -
 -
+- 13. File IO
+- 
+- 
 - 23. Bonus Extra Bits
 - 
