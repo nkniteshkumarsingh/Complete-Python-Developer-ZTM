@@ -7,6 +7,8 @@ Includes all the coding exercises performed during the course Complete Python De
 - 5. Developer Environment
 -
 -
+- 11. Modules In Python
+- 
 - 13. File IO
 - 
 - 
