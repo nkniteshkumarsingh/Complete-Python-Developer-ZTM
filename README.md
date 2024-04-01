@@ -8,7 +8,7 @@ Includes all the coding exercises performed during the course Complete Python De
 -
 -
 - 11. Modules In Python
-- 
+- 12. Debugging In Python
 - 13. File IO
 - 
 - 
