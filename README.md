@@ -5,8 +5,11 @@ Includes all the coding exercises performed during the course Complete Python De
 - 3. Python Basics
 - 4. Python Basics II
 - 5. Developer Environment
--
--
+- 6. Advanced Python: Object Oriented Programming
+- 7. Advanced Python: Functional Programming
+- 8. Advanced Python: Decorators
+- 
+- 
 - 11. Modules In Python
 - 12. Debugging In Python
 - 13. File IO
