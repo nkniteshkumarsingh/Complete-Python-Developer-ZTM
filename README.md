@@ -8,7 +8,7 @@ Includes all the coding exercises performed during the course Complete Python De
 - 6. Advanced Python: Object Oriented Programming
 - 7. Advanced Python: Functional Programming
 - 8. Advanced Python: Decorators
-- 
+- 9. Advanced Python: Error Handling
 - 
 - 11. Modules In Python
 - 12. Debugging In Python
