@@ -13,6 +13,8 @@ Includes all the coding exercises performed during the course Complete Python De
 - 11. Modules In Python
 - 12. Debugging In Python
 - 13. File IO
+- 14. Regular Expressions
+- 15. Testing In Python
 - 
 - 
 - 23. Bonus Extra Bits
